@@ -1,5 +1,5 @@
-@import url('../css/reset.css');
-@import url('../css/global.css');
+@import url('reset.css');
+@import url('global.css');
 @import url('./components/_navigator.css');
 @import url('./components/_pills.css');
 @import url('./components/_link-button.css');
